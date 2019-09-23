@@ -14,6 +14,8 @@
 		3DF78F2023396A6D00CF797B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DF78F1E23396A6D00CF797B /* LaunchScreen.storyboard */; };
 		3DF78F2B23396A6E00CF797B /* NavegacionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF78F2A23396A6E00CF797B /* NavegacionTests.swift */; };
 		3DF78F3623396A6E00CF797B /* NavegacionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF78F3523396A6E00CF797B /* NavegacionUITests.swift */; };
+		3DF78F44233970E300CF797B /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF78F43233970E300CF797B /* Materia.swift */; };
+		3DF78F462339723700CF797B /* CalificacionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF78F452339723700CF797B /* CalificacionesController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3DF78F3123396A6E00CF797B /* NavegacionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavegacionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF78F3523396A6E00CF797B /* NavegacionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavegacionUITests.swift; sourceTree = "<group>"; };
 		3DF78F3723396A6E00CF797B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DF78F43233970E300CF797B /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
+		3DF78F452339723700CF797B /* CalificacionesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalificacionesController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				3DF78F1C23396A6D00CF797B /* Assets.xcassets */,
 				3DF78F1E23396A6D00CF797B /* LaunchScreen.storyboard */,
 				3DF78F2123396A6D00CF797B /* Info.plist */,
+				3DF78F43233970E300CF797B /* Materia.swift */,
+				3DF78F452339723700CF797B /* CalificacionesController.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				3DF78F1823396A6000CF797B /* ViewController.swift in Sources */,
 				3DF78F1623396A6000CF797B /* AppDelegate.swift in Sources */,
+				3DF78F462339723700CF797B /* CalificacionesController.swift in Sources */,
+				3DF78F44233970E300CF797B /* Materia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
